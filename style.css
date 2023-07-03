@@ -1,12 +1,11 @@
 body{
-    background-color: salmon;
+    background-color: lightgreen;
 }
 
-h1{
-    color: lightblue;
+h2{
     text-align: center;
 }
 
-.img{
-    
+hr{
+    color: black;
 }
